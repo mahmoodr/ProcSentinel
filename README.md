@@ -8,4 +8,5 @@ Network Connection Inspection – Alerts on suspicious listening ports and outbo
 Automated Alerts – Sends notifications to a monitoring system via webhooks.
 Process Termination – Can automatically kill suspicious processes.
 Logging System – Stores detected anomalies for later analysis.
+
 This tool is ideal for system administrators, security engineers, and DevOps professionals looking for a simple yet effective process monitoring solution. 🚀
